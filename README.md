@@ -94,13 +94,13 @@ A small secure pay project was done.
 
 3. Run Project
 
+4. Go to (http://localhost:8080/swagger-ui/index.html Swagger link
 
-4. Go to http://localhost:8080/h2-console and enter
+5. Go to http://localhost:8080/h2-console and enter
    default username: sa
    password: password  ( you can change password in application.properties)
 
-
-5. You can find the documentation of api on http://localhost:8080/v2/api-docs
+6. You can find the documentation of api on http://localhost:8080/v2/api-docs
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
