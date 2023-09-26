@@ -66,7 +66,6 @@ A small secure pay project was done.
 - Java 11
 - Spring Boot
 - H2 Database
-- ReactJS
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
